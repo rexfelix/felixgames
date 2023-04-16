@@ -8,3 +8,6 @@ This is a collection of games I've made.
 ### 1. ChickBall 
 A game where you control a simple canon and try to g hit chickballs.
 No game, just a test for deploying.
+
+### 2. NoPoop
+A game of a frog busy dodging poop
