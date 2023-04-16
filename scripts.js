@@ -6,6 +6,12 @@ document.addEventListener("DOMContentLoaded", () => {
             description: "Chick Ball은 Egg를 쳐내는 게임입니다.\n테스트용",
             url: "games/ChickBallWeb/index.html",
         },
+        {
+            title: "No Poop",
+            image: "games/NoPoopWeb/icon.png",
+            description: "NoPoop is a game of a frog busy dodging poop.",
+            url: "games/NoPoopWeb/index.html",
+        },
         // 여기에 추가 게임 정보를 넣으세요
     ];
 
