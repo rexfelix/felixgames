@@ -11,3 +11,6 @@ No game, just a test for deploying.
 
 ### 2. NoPoop
 A game of a frog busy dodging poop
+
+### 3. SpeedUp
+Speed Up is a car game where you avoid obstacles.
