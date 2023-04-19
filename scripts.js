@@ -12,6 +12,12 @@ document.addEventListener("DOMContentLoaded", () => {
             description: "NoPoop is a game of a frog busy dodging poop.",
             url: "games/NoPoopWeb/index.html",
         },
+        {
+            title: "Speed Up",
+            image: "games/SpeedUpWeb/icon.png",
+            description: "Speed Up is a car game where you avoid obstacles. The longer you survive, the faster you go",
+            url: "games/SpeedUpWeb/index.html",
+        },
         // 여기에 추가 게임 정보를 넣으세요
     ];
 
