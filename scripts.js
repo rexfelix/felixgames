@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
       image: "games/CandyPang_webGL/icon.png",
       description:
         "CandyPang is a game where you pop three or more candies of the same color in a line. Special candies pop all candies that are the same candy type as the selected neighbor.",
-      url: "games/SpeedUpWeb/index.html",
+      url: "games/CandyPang_webGL/index.html",
     },
     // 여기에 추가 게임 정보를 넣으세요
   ];
